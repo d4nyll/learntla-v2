@@ -11,7 +11,7 @@ Outline
 
 As a *very* rough guide, here's the order we'll learn things: 
 
-- How to do basic operations, like adding two numbers or concatting two sequences.
+- How to do basic operations, like adding two numbers or concatenating two sequences.
 - How to specify simple, deterministic, nonconcurrent algorithms, like "check if this list has any duplicates in it", and how to check if invariants hold.
 - Specifying *nondeterministic* algorithms, like ones involving randomness or a chance of failure.
 - Specifying concurrent systems, like independent readers and writers sharing a queue.
